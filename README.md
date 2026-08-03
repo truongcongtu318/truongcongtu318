@@ -63,17 +63,23 @@ $ neofetch --user "truongcongtu318"
 
 ---
 
-### 📊 ANALYTICS & ACTIVITY
+### 📊 ANALYTICS & METRICS
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=truongcongtu318&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=00F0FF&border_color=30363D&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=truongcongtu318&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=00F0FF&border_color=30363D&hide=html,css" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=truongcongtu318&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=truongcongtu318&layout=compact&theme=cyberpunk&hide=html,css" alt="Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongcongtu318&theme=cyberpunk" alt="Streak" />
-
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=truongcongtu318&background=0D1117&border=30363D&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Streak Stats" />
 </div>
 
 ---
