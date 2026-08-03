@@ -44,8 +44,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=truongcongtu318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongcongtu318&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=truongcongtu318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=truongcongtu318&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 
   <br/><br/>
 
@@ -66,5 +66,5 @@
 ### 💡 Tech Quote
 
 <div align="center">
-  <img src="https://readme-quotes-three.vercel.app/api?theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
