@@ -10,8 +10,8 @@
 
   <!-- Quick Social Badges -->
   <p>
-    <a href="https://linkedin.com/in/truongcongtu318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:truongcongtu318@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/truong-cong-tu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:tutc.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/truongcongtu318" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
@@ -24,7 +24,7 @@
 - 🌱 **Đang học tập & thực hành:** AWS Cloud, Kubernetes (K8s), Terraform & ArgoCD (GitOps).
 - 🔭 **Định hướng:** Phát triển bản thân theo con đường **DevOps / Cloud Infrastructure Engineer**.
 - ⚡ **Sở thích:** Tự động hóa hạ tầng, containerization và xây dựng các luồng triển khai GitOps.
-- 📫 **Liên hệ:** `truongcongtu318@gmail.com`
+- 📫 **Liên hệ:** [tutc.work@gmail.com](mailto:tutc.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/truong-cong-tu/)
 
 ---
 
